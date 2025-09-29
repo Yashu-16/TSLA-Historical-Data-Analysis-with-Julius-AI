@@ -1,4 +1,4 @@
-# TSLA-Historical-Data-Analysis-with-Julius-AI
+# TSLA-Historical-Data-Analysis-with-Julius-AI 
 
 I recently performed a comprehensive analysis of Tesla’s (TSLA) historical stock data using Python and Julius AI, combining data analysis, financial metrics, and AI-driven insights. Here’s a breakdown of what I did and how:
 
@@ -27,3 +27,5 @@ Utilized Julius AI for automated data parsing, trend detection, and AI-powered e
 Combined visual analytics with AI insights to create a clear, actionable summary of Tesla’s historical stock performance.
 
 This project enhanced my skills in Python-based financial data analysis, AI-powered exploration, and visualization. It also reinforced how AI can augment data-driven decision-making in finance. Excited to take these insights into future machine learning and investment projects!
+
+Link - https://julius.ai/s/54044b11-79f0-495f-99c7-280007deb072?utm_source=share&utm_campaign=threads&utm_medium=referral
